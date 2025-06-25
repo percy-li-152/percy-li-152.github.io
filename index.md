@@ -5,18 +5,20 @@ nav_order: 1
 permalink: /
 ---
 
-# What is NFT？
+# What is [Goldust]?
 
+Goldust is committed to building a free and open NFT platform where you can explore the NFT creations of various artists, as well as freely create your own NFTs. When you want to trade digital assets as NFTs, you can sell them through Goldust. If you're interested in investing in a particular digital art asset, you can also actively initiate a purchase request. Goldust will offer more convenient and secure transaction methods, allowing your digital assets to flow seamlessly.
 
-Non-Fungible Token (NFT) is a type of cryptographic digital proof of ownership, built on blockchain technology, which is unique, irreplaceable, and indivisible. It can be understood as a decentralized "digital certificate of ownership for virtual or physical assets."
+## A Free and Open NFT Creation Platform
 
+Goldust offers all users a free creation platform and convenient creation tools. Whenever you have inspiration or innovative works, you can publish them on Goldust anytime and anywhere, showcasing them to users on the platform for appreciation. With a rich and diverse range of NFTs, including categories like gaming, sports, virtual, electronic, music, and more, you can enjoy creations from artists all over the world on the platform.
 
-- As a non-fungible token minted on the blockchain, NFTs are primarily traded using virtual currencies, thus giving NFTs a certain value in virtual currency.
-+ As a digital certificate of an asset, an NFT represents the intrinsic value of the asset itself. Meanwhile, the technical characteristics of NFTs provide liquidity and traceability to asset ownership. On one hand, liquidity enhances the asset's value; on the other hand, traceability addresses the pain points of verifying authenticity and establishing ownership for assets like art collectibles.
-- The liquidity of NFTs adds transactional value to assets.
+## A Fast and Convenient Asset Trading Platform
+
+Goldust provides easy buying and selling methods, allowing you to manage your NFT assets according to your investment plans. Of course, if you have a favorite NFT, you can initiate a purchase request and wait for a seller’s response. This experience will open up more possibilities for your collection.
 
 
 
 ----
 
-[Goldust]: https://www.goldust.io/
+[Goldust]: https://www.goldust.io
