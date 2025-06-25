@@ -1,8 +1,6 @@
 ---
 title: Privacy Policy
-layout: home
 nav_order: 5
-permalink: /
 ---
 
 # Privacy Policy

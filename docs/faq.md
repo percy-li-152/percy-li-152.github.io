@@ -1,8 +1,6 @@
 ---
 title: FAQ
-layout: home
 nav_order: 4
-permalink: /
 ---
 
 # Frequently Asked Questions
