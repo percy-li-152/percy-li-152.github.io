@@ -1,7 +1,7 @@
 ---
 title: How to create NFTs?
 parent: NFT
-nav_order: 2
+nav_order: 4
 ---
 
 # How to create NFTs?

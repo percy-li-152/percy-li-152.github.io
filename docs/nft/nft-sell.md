@@ -1,7 +1,7 @@
 ---
 title: How to sell NFTs?
 parent: NFT
-nav_order: 4
+nav_order: 6
 ---
 
 In Goldust, you can quickly sell your owned NFTs to other collectors and earn substantial asset returns.
