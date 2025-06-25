@@ -8,7 +8,7 @@ nav_order: 23
 
 Collect more NFTs with artistic value, as they are likely to appreciate in the future. Trust your judgment and choose the NFTs you believe have potential.
 
-## 
+
 <ol>
   <li>Choose the NFT you like that is currently for sale.<br>
     <img src="/img/buy/1.png">

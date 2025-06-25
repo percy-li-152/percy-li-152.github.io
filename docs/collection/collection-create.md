@@ -4,7 +4,9 @@ parent: Collection
 nav_order: 41
 ---
 
-## 
+# How to create collection？
+
+
 <ol>
   <li>Connect your Web3 wallet.
     <img src="/img/create-collection/1.png" style="width: 100%">

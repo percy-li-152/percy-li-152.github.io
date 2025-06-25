@@ -8,7 +8,7 @@ nav_order: 21
 
 Non-Fungible Token (NFT) is a type of cryptographic digital proof of ownership, built on blockchain technology, which is unique, irreplaceable, and indivisible. It can be understood as a decentralized "digital certificate of ownership for virtual or physical assets."
 
-## 
+
 - As a non-fungible token minted on the blockchain, NFTs are primarily traded using virtual currencies, thus giving NFTs a certain value in virtual currency.
 
 

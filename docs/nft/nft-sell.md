@@ -8,7 +8,7 @@ nav_order: 24
 
 In Goldust, you can quickly sell your owned NFTs to other collectors and earn substantial asset returns.
 
-## 
+
 <ol>
   <li>1. Click on the profile icon and select **"My Assets"** to view your NFT assets.
     <img src="/img/sell/1.png" style="width: 100%">
