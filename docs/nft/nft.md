@@ -1,6 +1,6 @@
 ---
 title: What is NFT?
-parent: nft
+parent: NFT
 nav_order: 3
 ---
 
