@@ -1,7 +1,7 @@
 ---
 title: How to sell NFTs?
 parent: NFT
-nav_order: 6
+nav_order: 24
 ---
 
 # How to sell NFTs?

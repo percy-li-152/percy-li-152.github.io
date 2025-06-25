@@ -1,7 +1,7 @@
 ---
 title: How to buy NFTs?
 parent: NFT
-nav_order: 5
+nav_order: 23
 ---
 
 # How to buy NFTs?
