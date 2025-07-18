@@ -1,7 +1,7 @@
 ---
 title: How to create collection?
 parent: Collection
-nav_order: 41
+nav_order: 31
 ---
 
 # How to create collection？
