@@ -8,16 +8,16 @@ nav_order: 31
 
 
 1.  Connect your Web3 wallet.
-    <img src="/img/create-collection/1.png" style="width: 100%">
+    <img src="/img/collection-create/1.png" style="width: 100%">
 
 2.  Click on the profile icon and find **"My Creations."**
-    <img src="/img/create-collection/2.png" style="width: 100%">
+    <img src="/img/collection-create/2.png" style="width: 100%">
 
 3.  Click the **"Create Items"** button at the top right of the page.
-    <img src="/img/create-collection/3.png"  style="width: 100%">
+    <img src="/img/collection-create/3.png"  style="width: 100%">
 
 4.  On the new page, select **"Create A New Collection."**
-    <img src="/img/create-collection/4.png">
+    <img src="/img/collection-create/4.png">
 
 5.  Follow the instructions on the page to upload the logo image for the collection, and fill in the collection's name, description, and the royalty percentage you set for the collection.
     <img src="/img/create-collection/5.png" style="width: 100%">
