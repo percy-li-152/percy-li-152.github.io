@@ -1,6 +1,6 @@
 ---
 title: Launch
-nav_order: 61
+nav_order: 41
 ---
 
 # How to create a launch plan for an NFT?
