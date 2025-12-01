@@ -1,5 +1,6 @@
 ---
-title: Launch
+title: How to initiate a designated launch for an NFT launch plan?
+parent: Launch
 nav_order: 42
 ---
 

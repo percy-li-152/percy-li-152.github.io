@@ -1,5 +1,6 @@
 ---
-title: Launch
+title: How to create a launch plan for an NFT?
+parent: Launch
 nav_order: 41
 ---
 
