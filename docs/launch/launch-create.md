@@ -7,12 +7,12 @@ nav_order: 41
 
 1. Connect your wallet, then click the **profile icon** and go to **My Creations.**
 
-   <img src="/img/launch-create/1.png" style="width: 100%">
+   <img src="/img/launch-create/1.png">
    <img src="/img/launch-create/2.png">
 
 2. Select **Launch** and click the **Launch** button.
 
-   <img src="/img/launch-create/3.png" style="width: 100%">
+   <img src="/img/launch-create/3.png">
 
 3. Fill in the relevant launch information – Step 1.
 
@@ -22,7 +22,7 @@ nav_order: 41
 - Maximum supply of NFTs in the collection
 - **Royalty:** Once set, minted NFTs will automatically pay the creator a share based on the royalty percentage whenever they are sold in the future.
 
-   <img src="/img/launch-create/4.png" style="width: 100%">
+   <img src="/img/launch-create/4.png">
 
 4. Choose the type of collection.
 
